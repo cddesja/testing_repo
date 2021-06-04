@@ -1,0 +1,12 @@
+#+TITLE: Topics
+
+* Data structure
+- dataset
+- cases/observational units
+- variables
+ - quantitative
+ - categorical
+- assocation
+- causation
+ - explanatory variables
+ - response variables
